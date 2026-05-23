@@ -1,7 +1,7 @@
-﻿{
+{
   "cacheSeconds": 300,
-  "color": "yellow",
+  "color": "green",
   "label": "coverage",
-  "message": "79.8%",
+  "message": "81.0%",
   "schemaVersion": 1
 }
