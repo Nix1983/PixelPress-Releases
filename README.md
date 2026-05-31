@@ -58,6 +58,9 @@ passwords, or other secrets in public issues.
 - Choose WebP and/or AVIF output.
 - Keep unsupported or broken files out of the conversion instead of crashing.
 - Save optimized files into a separate output folder.
+- Create a fresh output folder per run, or replace the previous Pixel Press
+  output for the same input.
+- Optionally resize images wider than 1920 pixels for practical web output.
 - Preserve folder structure for folder-based runs.
 - Show size savings, output file counts, and conversion duration after a run.
 

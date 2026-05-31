@@ -39,6 +39,8 @@ body:
         - Image selection
         - Folder scanning
         - Output folders
+        - Replace previous run
+        - Resize behavior
         - WebP output
         - AVIF output
         - Quality controls

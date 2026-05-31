@@ -113,6 +113,8 @@ body:
         Output formats: WebP, AVIF, or both
         WebP quality:
         AVIF quality:
+        Resize large images on/off:
+        Replace previous run on/off:
         Output folder:
         Windows plan: Free or Pro, if relevant
 
